@@ -1107,3 +1107,8 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.img-about {
+  border-radius: 16px;
+  box-shadow: 0 4px 8px silver;
+}
